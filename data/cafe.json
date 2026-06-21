@@ -1,0 +1,192 @@
+{
+  "the_coffee_trading": {
+    "name": "The Coffee Trading & Co.",
+    "rating": "4.8",
+    "openTime": "08:00 AM",
+    "closeTime": "11:00 PM",
+    "mobile": "07007956383",
+    "description": "A modern specialty coffee café in Sarnath known for its premium coffee, desserts, and relaxed ambiance.",
+    "url": "https://raw.githubusercontent.com/sat-test/HT-002-IMG/refs/heads/main/cafe/HT-002-001.png",
+    "special_points": [
+      "Best choice if you're specifically looking for coffee and café vibes.",
+      "Modern setup with specialty coffee, snacks, and desserts.",
+      "One of the highest-rated cafés in the area."
+    ],
+    "must_try": [
+      "Cappuccino",
+      "Cold Coffee",
+      "Chocolate Brownie"
+    ]
+  },
+  "night_owl_cafe": {
+    "name": "NIGHT OWL CAFE",
+    "rating": "4.6",
+    "openTime": "11:00 AM",
+    "closeTime": "09:30 PM",
+    "mobile": "07317713923",
+    "description": "A cozy café offering coffee, mocktails, pizzas, and quick bites with a comfortable atmosphere.",
+    "url": "https://raw.githubusercontent.com/sat-test/HT-002-IMG/refs/heads/main/cafe/HT-002-002.png",
+    "special_points": [
+      "Great for coffee and evening hangouts.",
+      "Serves pizzas, mocktails, and snacks.",
+      "Comfortable seating and pleasant ambiance."
+    ],
+    "must_try": [
+      "Pizza",
+      "Cold Coffee",
+      "Mocktails"
+    ]
+  },
+  "veg_gali": {
+    "name": "Veg Gali",
+    "rating": "4.6",
+    "openTime": "10:30 AM",
+    "closeTime": "10:30 PM",
+    "mobile": "09569480055",
+    "description": "A popular vegetarian restaurant serving North Indian dishes and snacks in a family-friendly setting.",
+    "url": "https://raw.githubusercontent.com/sat-test/HT-002-IMG/refs/heads/main/cafe/HT-002-003.png",
+    "special_points": [
+      "Excellent vegetarian restaurant.",
+      "Good option for family dining.",
+      "Popular for North Indian cuisine."
+    ],
+    "must_try": [
+      "Paneer Butter Masala",
+      "Dal Makhani",
+      "Veg Biryani"
+    ]
+  },
+  "the_friends_table": {
+    "name": "The Friends Table",
+    "rating": "4.9",
+    "openTime": "11:00 AM",
+    "closeTime": "11:00 PM",
+    "mobile": "09883058726",
+    "description": "A highly-rated restaurant known for its friendly service, quality food, and relaxed dining experience.",
+    "url": "https://raw.githubusercontent.com/sat-test/HT-002-IMG/refs/heads/main/cafe/HT-002-004.png",
+    "special_points": [
+      "One of the highest-rated restaurants in Sarnath.",
+      "Great for lunch and dinner.",
+      "Friendly service and comfortable atmosphere."
+    ],
+    "must_try": [
+      "Paneer Tikka",
+      "Fried Rice",
+      "Momos"
+    ]
+  },
+  "appam_cafe": {
+    "name": "Appam Cafe",
+    "rating": "4.7",
+    "openTime": "08:00 AM",
+    "closeTime": "10:00 PM",
+    "mobile": "",
+    "description": "A South Indian restaurant offering authentic Kerala-style dishes and traditional flavors.",
+    "url": "https://raw.githubusercontent.com/sat-test/HT-002-IMG/refs/heads/main/cafe/HT-002-005.png",
+    "special_points": [
+      "Best South Indian food option in Sarnath.",
+      "Authentic Kerala-style cuisine.",
+      "Clean and family-friendly environment."
+    ],
+    "must_try": [
+      "Appam with Stew",
+      "Masala Dosa",
+      "Filter Coffee"
+    ]
+  },
+  "the_legacy": {
+    "name": "THE LEGACY (Restaurant and Cafe)",
+    "rating": "4.5",
+    "openTime": "09:00 AM",
+    "closeTime": "10:00 PM",
+    "mobile": "",
+    "description": "A restaurant and café located near major tourist attractions, offering a mix of Indian and café-style food.",
+    "url": "https://raw.githubusercontent.com/sat-test/HT-002-IMG/refs/heads/main/cafe/HT-002-006.png",
+    "special_points": [
+      "Convenient location near Sarnath attractions.",
+      "Suitable for families and tourists.",
+      "Offers both meals and café-style refreshments."
+    ],
+    "must_try": [
+      "North Indian Thali",
+      "Tandoori Platter",
+      "Coffee"
+    ]
+  },
+  "red_palace": {
+    "name": "Red Palace",
+    "rating": "4.4",
+    "openTime": "11:00 AM",
+    "closeTime": "11:30 PM",
+    "mobile": "09889885888",
+    "description": "A popular family restaurant serving both vegetarian and non-vegetarian North Indian cuisine in Sarnath.",
+    "url": "https://raw.githubusercontent.com/sat-test/HT-002-IMG/refs/heads/main/cafe/HT-002-007.png",
+    "special_points": [
+      "Family-friendly dining atmosphere.",
+      "Known for biryani and North Indian dishes.",
+      "Suitable for group dining and celebrations."
+    ],
+    "must_try": [
+      "Chicken Biryani",
+      "Malai Kofta",
+      "Butter Naan"
+    ]
+  },
+  "atithi_cafe_restaurant": {
+    "name": "Atithi Cafe and Restaurant",
+    "rating": "4.7",
+    "openTime": "09:00 AM",
+    "closeTime": "11:00 PM",
+    "mobile": "08188843449",
+    "description": "A well-rated family restaurant offering Indian meals, snacks, and a comfortable dining experience.",
+    "url": "https://raw.githubusercontent.com/sat-test/HT-002-IMG/refs/heads/main/cafe/HT-002-008.png",
+    "special_points": [
+      "Highly rated by visitors.",
+      "Good for breakfast, lunch, and dinner.",
+      "Convenient location near Lotus Hotel."
+    ],
+    "must_try": [
+      "Paneer Butter Masala",
+      "Veg Biryani",
+      "Masala Tea"
+    ]
+  },
+  "maati_house": {
+    "name": "MAATI HOUSE",
+    "rating": "4.9",
+    "openTime": "09:00 AM",
+    "closeTime": "11:00 PM",
+    "mobile": "09555341660",
+    "description": "A trendy restaurant with excellent reviews, offering a modern dining experience in Sarnath.",
+    "url": "https://raw.githubusercontent.com/sat-test/HT-002-IMG/refs/heads/main/cafe/HT-002-009.png",
+    "special_points": [
+      "One of the highest-rated restaurants in the area.",
+      "Modern ambiance and comfortable seating.",
+      "Good for families and groups."
+    ],
+    "must_try": [
+      "Paneer Tikka",
+      "Tandoori Platter",
+      "Mocktails"
+    ]
+  },
+  "shaakya_restaurant": {
+    "name": "Shaakya Restaurant",
+    "rating": "4.2",
+    "openTime": "11:00 AM",
+    "closeTime": "11:00 PM",
+    "mobile": "07317002936",
+    "description": "A multi-cuisine restaurant serving North Indian, Chinese, Continental, and South Indian dishes.",
+    "url": "https://raw.githubusercontent.com/sat-test/HT-002-IMG/refs/heads/main/cafe/HT-002-010.png",
+    "special_points": [
+      "Veg and non-veg options available.",
+      "Multi-cuisine menu.",
+      "Located inside Hotel SGT Plaza."
+    ],
+    "must_try": [
+      "Palak Paneer",
+      "Honey Chicken Dry",
+      "Butter Chicken"
+    ]
+  }
+}
